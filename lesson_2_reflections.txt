@@ -11,6 +11,7 @@ What value do you think it offers?
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+	The staging area is where you put in all changes before a commit. If you use git diff --staged, you will see all the different changes you made and from there, decide which changes should logically go together.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
