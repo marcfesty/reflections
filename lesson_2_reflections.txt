@@ -15,6 +15,7 @@ change?
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+	Branches are helpful if you want to test and create a different version based off a branch so you can experiment and try new stuff without breaking the main code.
 
 How do the diagrams help you visualize the branch structure?
 
