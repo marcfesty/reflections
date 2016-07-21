@@ -8,10 +8,13 @@ automatically stay up-to-date with your remote repository?
 
     Pulling changes manually allows you to focus on whatever you're working on without dealing with code that was pushed to the remote by other collaborators. This isolates you're unit of work to the state of your branch on your local machine, and if any bugs arise, you're sure it's only for code you committed to your local. Also, automatically pulling code might not be compatible with the code on your local making it susceptible to break. 
 
-Describe the differences between forks, clones, and branches.  When would you
-use one instead of another?
+Describe the differences between forks, clones, and branches.  When would you use one instead of another?
 
-    Fill in your answer here
+    Clones are copies of a git repository on your local or from Github. Forks are clones of other Github user's repository that you want to work on. Branches are labeled commits in the repository that make it easy for the user to checkout and keep track of. 
+
+    Branches are used when you want to make changes to a particular commit and "branching out" of the master branch.
+
+    Clones allow you to copy an entire git repository on your local or from your Github account; whereas Forks are clones of other Github users' repository that you want to work on, but still shows who created it and it prevents any changes to the original source. 
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
