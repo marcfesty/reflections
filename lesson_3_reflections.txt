@@ -19,7 +19,7 @@ Describe the differences between forks, clones, and branches.  When would you us
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    Having a copy of the last known state of the remote allows you to work with the most recent state of the repository at the time it was fetched. This latest copy can even be worked on offline since it's already saved on your local.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
