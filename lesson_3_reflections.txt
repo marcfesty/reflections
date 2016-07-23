@@ -24,7 +24,10 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    There are other versioning systems available online, but the reason git/github is better is that for each collaborator, a copy of the main repository will always be available. Every directory and file in their local branches serves as a backup of the entire project. 
+
+    A centralized version control system may be used, but it will be much harder to push code and merge to a central repository.
+
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
