@@ -32,6 +32,6 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    If you want your code to be reviewed by other collaborators, creating a separate branch and pushing it to the remote repository will allow you to make pull-requests that alert them to review the code before "pulling" it into the main master branch. This would prevent any un-reviewed code to sneak-in and potentially break the master branch.
 
 Extra text - Test from Work Laptop
